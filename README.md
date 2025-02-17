@@ -1,1 +1,1 @@
-A repository to save my small data science projects, specially data analysis of datasets from Kraggle.
+[2024] A repository to save my small data science projects, specially data analysis of datasets from Kraggle. The projects are a way to practice what I'm currently learning in Data Science with online free courses.
