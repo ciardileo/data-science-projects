@@ -1,7 +1,7 @@
 """
 Objetivo: apresentar os dados sobre a economia dos países em dashboards
 - Deve ser possível ver os dados mundiais por ano
-- Deve ser possível ver os dados por paíshttp://localhost:8501/
+- Deve ser possível ver os dados por país
 """
 
 # imports
